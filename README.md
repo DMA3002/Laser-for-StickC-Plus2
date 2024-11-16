@@ -1,6 +1,6 @@
 # Laser for StickC Plus2
 
-This project is a custom firmware designed for the **M5 StickC Plus2** microcontroller. It provides an interactive user interface, multiple functional modes, and real-time battery monitoring. The firmware is perfect for hobbyists and developers looking for a versatile, ready-to-use setup for their M5 StickC Plus2 device.
+This project is a custom firmware designed for the **M5 StickC Plus2** microcontroller with **M5 Laser TX unit**. It provides an interactive user interface, multiple functional modes, and real-time battery monitoring. The firmware is perfect for hobbyists and developers looking for a versatile, ready-to-use setup for their M5 StickC Plus2 device.
 
 ## 💎 Features
 - **Multiple Operational Modes:**
