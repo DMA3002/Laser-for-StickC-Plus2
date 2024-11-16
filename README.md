@@ -1,4 +1,4 @@
-# M5 StickC Plus2 Firmware Project
+# Laser for StickC Plus2
 
 This project is a custom firmware designed for the **M5 StickC Plus2** microcontroller. It provides an interactive user interface, multiple functional modes, and real-time battery monitoring. The firmware is perfect for hobbyists and developers looking for a versatile, ready-to-use setup for their M5 StickC Plus2 device.
 
@@ -22,7 +22,7 @@ This project is a custom firmware designed for the **M5 StickC Plus2** microcont
 ## 💎 Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/m5stickc-plus2-project.git
+   git clone https://github.com/mountain276/Laser-for-StickC-Plus2.git
 2. Use the M5Burner tool to flash the firmware onto your M5 StickC Plus2 device.
 3. Restart the device and enjoy!
 
