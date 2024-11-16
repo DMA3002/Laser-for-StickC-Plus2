@@ -23,15 +23,19 @@ This project is a custom firmware designed for the **M5 StickC Plus2** microcont
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/mountain276/Laser-for-StickC-Plus2.git
-2. Use the M5Burner tool to flash the firmware onto your M5 StickC Plus2 device.
+2. Use the [M5Tool](https://notifictest.neocities.org/) to flash the firmware onto your M5 StickC Plus2.
 3. Restart the device and enjoy!
 
 ## 💎 How it works
 The firmware leverages M5Stack's hardware features and libraries to create a user-friendly interface and efficient operations. The code is optimized for real-time performance, ensuring seamless transitions between modes and smooth updates of battery status.
 
 ## 💎 You can easily modify this firmware for your preferences. Here's how:
-- Download main.py file
+- Download [main.py](https://github.com/mountain276/Laser-for-StickC-Plus2/releases/download/m5stick/main.py) file
 - Open UiFlow2
 - Connect your device to PC
 - Connect through COM3 port in console (bottom left button)
 - Delete current one, then upload your new modified main.py file
+
+## 💎 Contact me
+- [Telegram](https://t.me/mountainwork)
+- mountainplaya@gmail.com
