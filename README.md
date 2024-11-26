@@ -37,5 +37,5 @@ The firmware leverages M5Stack's hardware features and libraries to create a use
 - Delete current one, then upload your new modified main.py file
 
 ## 💎 Contact me
-- [Telegram](https://t.me/mountainwork)
+- [Telegram](https://t.me/DMA3002)
 - mountainplaya@gmail.com
